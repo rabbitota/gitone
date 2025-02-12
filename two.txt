@@ -1,1 +1,7 @@
-
+This is text three
+2
+3
+I am student
+dui
+the quick brown fox
+I am in developer branch.
